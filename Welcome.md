@@ -2,6 +2,7 @@
 
 ## MEMBERS 
 - ASWIN
+- Anshul
 
 ## ROLES AND WORK
 
@@ -10,6 +11,7 @@
 ## Booking of Desired Desk
 
 ## Previosuly booked by others
+- Anshul
 
 ## Locations Currently Booked
 
